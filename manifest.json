@@ -1,0 +1,15 @@
+{
+  "name": "Mischief Managed",
+  "short_name": "Managed",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1c1c3c",
+  "theme_color": "#1c1c3c",
+  "icons": [
+    {
+      "src": "mm-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
